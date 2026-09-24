@@ -1,0 +1,26 @@
+# Index + = [0,         1,      2,     3,   4,   5 ]
+a =         ["ali", "Usman",  "ai" , True, 10.0, 11]
+# Index - = [-6,      -5,     -4,    -3,    -2,  -1]
+# print (a[-4 : -1])
+# print (a[-4 : ]) #Complete list print last
+
+# a[3] = "baloch" # To modify in list
+#  print (a)
+
+# a =  ["apple", "banana"]
+# a.append("mango") # append add value in last
+# print (a)
+
+# b = ["apple", "banana"]
+# b.insert (1, "mango")
+# print (b)
+
+# c = ["apple", "banana"]
+# d = ["a", "b"]
+
+# c.extend(d)
+# print (c)
+
+# e = ["apple", "banana", "grape", "apple"]
+# e.remove("apple")
+# print (e)
